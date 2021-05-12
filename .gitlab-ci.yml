@@ -1,0 +1,10 @@
+cache:
+  key: main
+
+stages:
+  - build
+
+build_project: &root_build
+  stage: build
+  script: semantic-release
+
