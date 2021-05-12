@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/tomask272/semantic-release-test/compare/v1.0.1...v1.1.0) (2021-05-12)
+
+
+### Features
+
+* **ID:** Fixing the app ([20ff18b](https://github.com/tomask272/semantic-release-test/commit/20ff18b192b2ac7f1fc8843866110e560e4b37b1))
+
 ## [1.0.1](https://github.com/tomask272/semantic-release-test/compare/v1.0.0...v1.0.1) (2021-05-12)
 
 
