@@ -1,2 +1,2 @@
 This is a file test, with add.
-And possible fix
+And possible fix of functionality
